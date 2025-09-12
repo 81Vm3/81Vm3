@@ -2,7 +2,7 @@
 <h1 align="left" id="macropower-title"><img src="./img/k.gif"  width="48" height="48"> Ciallo～(∠・ω< ) I'm Blume</h1>  
 
 <a href="#81vm3-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=81vm3&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="81vm3" align="right" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=81vm3&theme=default&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="81vm3" align="right" style="margin: 10px;" />
 </a>
 
 <h3 align="left">C++/Java backend developer</h3>
