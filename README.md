@@ -1,11 +1,8 @@
 
-<h1 align="left" id="macropower-title"><img src="./img/k.gif"  width="48" height="48" style="margin-right: 10px;">Hello there! I'm Blume</h1>  
+<h1 align="left" id="macropower-title"><img src="./img/k.gif"  width="48" height="48"> Ciallo～(∠・ω< ) I'm Blume</h1>  
 
 <a href="#81vm3-title">
   <img src="https://github-readme-stats.vercel.app/api?username=81vm3&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="81vm3" align="right" style="margin: 10px;" />
-</a>
-<a href="#81vm3-title">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=81VM3&theme=synthwave&hide_border=true" alt="81vm3" align="right" style="margin: 10px;" />
 </a>
 
 <h3 align="left">C++/Java backend developer</h3>
@@ -24,7 +21,6 @@ Currently mastering Java dev..
     <img alt="GitHub followers" src="https://img.shields.io/badge/Codeforces-0x22-green?logo=codeforces">
   </a>
 </p>
-<br>
 <br>
 <h2 align="left" id="81vm3">Favorite Tech</h2>
 
@@ -67,7 +63,7 @@ Currently mastering Java dev..
 
 <h2 align="left" id="81vm3">Get in touch</h2>
 
+ <img src="./img/miao.gif"  width="128" height="128" align="right"/>
+
 - Email: p3g4sus@foxmail.com
 - QQ: 3417512908
-
- <img src="./img/miao.gif"  width="128" height="128" align="right"/>
