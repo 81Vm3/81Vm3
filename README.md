@@ -31,7 +31,7 @@ Currently mastering Java dev..
     <td align="center" width="96">
       <a href="#81vm3">
         <img src="./img/cpp-svgrepo-com.svg" width="48" height="48" alt="C++" />
-      </a>`
+      </a>
       <br>C++
     </td>
     <td align="center" width="96">
