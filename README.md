@@ -18,7 +18,7 @@ Currently mastering Java dev..
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/81Vm3?style=flat&logo=github">
   </a>
   <a href="https://codeforces.com/profile/0x22">
-    <img alt="GitHub followers" src="https://img.shields.io/badge/Codeforces-0x22-green?logo=codeforces">
+    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-0x22-green?logo=codeforces">
   </a>
 </p>
 <br>
@@ -58,6 +58,18 @@ Currently mastering Java dev..
       </a>
       <br>Debian
     </td>
+    <td align="center" width="96">
+      <a href="#81vm3">
+        <img src="./img/pawn-svgrepo-com.svg" width="48" height="48" alt="Pawn" />
+      </a>
+      <br>Pawn
+    </td>
+    <td align="center" width="96">
+      <a href="#81vm3">
+        <img src="./img/mysql-svgrepo-com.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
   </tr>
 </table>
 
@@ -65,5 +77,6 @@ Currently mastering Java dev..
 
  <img src="./img/miao.gif"  width="128" height="128" align="right"/>
 
+- Bilibili: https://space.bilibili.com/95131565
 - Email: p3g4sus@foxmail.com
 - QQ: 3417512908
