@@ -7,7 +7,6 @@
 
 <h3 align="left">C++/Java backend developer</h3>
 <h3 align="left">Competitive programmer</h3>
-Currently mastering Java dev..
 <br>
 <br>
 <p align="left">
