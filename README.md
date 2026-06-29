@@ -2,10 +2,10 @@
 <h1 align="left" id="macropower-title"><img src="./img/k.gif"  width="48" height="48"> Ciallo～(∠・ω< ) I'm Blume</h1>  
 
 <a href="#81vm3-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=81vm3&theme=default&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="81vm3" align="right" style="margin: 10px;" />
+
 </a>
 
-<h3 align="left">C++/Java backend developer</h3>
+<h3 align="left">A C++/Go backend developer</h3>
 <h3 align="left">Competitive programmer</h3>
 <br>
 <br>
@@ -21,56 +21,31 @@
   </a>
 </p>
 <br>
-<h2 align="left" id="81vm3">Favorite Tech</h2>
+
+## Favorite Tech
 
 > Tools, languages, and other things that I like to work with.
 
-<table  align="center" >
-  <tr>
-    <td align="center" width="96">
-      <a href="#81vm3">
-        <img src="./img/cpp-svgrepo-com.svg" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#81vm3">
-        <img src="./img/java-svgrepo-com.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#81vm3">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96"> 
-      <a href="#81vm3" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center"  width="96">
-      <a href="#81vm3">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#81vm3">
-        <img src="./img/pawn-svgrepo-com.svg" width="48" height="48" alt="Pawn" />
-      </a>
-      <br>Pawn
-    </td>
-    <td align="center" width="96">
-      <a href="#81vm3">
-        <img src="./img/mysql-svgrepo-com.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-  </tr>
-</table>
+### Backend
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) 
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) 
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+### AI & ML
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=flat)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat)
+
 
 <h2 align="left" id="81vm3">Get in touch</h2>
 
