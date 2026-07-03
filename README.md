@@ -1,12 +1,10 @@
 
-<h1 align="left" id="macropower-title"><img src="./img/k.gif"  width="48" height="48"> Ciallo～(∠・ω< ) I'm Blume</h1>  
+<h1 align="left" id="macropower-title">Ciallo~ I'm Blume</h1>  
 
 <a href="#81vm3-title">
 
 </a>
-
-<h3 align="left">A C++/Go backend developer</h3>
-<h3 align="left">Competitive programmer</h3>
+<h3 align="left">C++/Go developer</h3>
 <br>
 <br>
 <p align="left">
@@ -33,8 +31,14 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) 
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) 
+
+### Microservices
+
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
